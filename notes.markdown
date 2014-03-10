@@ -6,11 +6,13 @@ andrew.hunt@unitn.it
 Tutoring on Wednesday 14-15 A211
 
 **Objectives**
+
 Academic, written English
 
 Reach B2 in writing (= TOEFL iBT 87-109, IELTS 5.0-6.0, FCE)
 
 **Content**
+
  * Individual writing
  * Collaborative writing
  * Peer correction
@@ -18,6 +20,7 @@ Reach B2 in writing (= TOEFL iBT 87-109, IELTS 5.0-6.0, FCE)
  * Language analysis
 
 **Assessments**
+
 50% course assessments
 - 3 texts (1 per type)
 
@@ -43,6 +46,7 @@ Lesson 1
  * Avoid direct questions
 
 **Exercise**
+
  1. The results of this study can be used to recommend funding for further research.
  2. It is necessary to understand the cause(s) of the computerized
     ATC system crash.
@@ -56,7 +60,9 @@ Lesson 1
  6. There is (very) little research in this field of computer science.
 
 **Exercise 2**
+
 To: <techeng@unitn.it>
+
 Object: Monday lesson cancelled
 
 Dear students,
