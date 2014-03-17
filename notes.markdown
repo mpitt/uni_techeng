@@ -99,6 +99,29 @@ Lesson 2
  7. He is //a// supporter of Arsenal football club.
 
 **Biodata statement**
+
 Like a very short CV in third person form.
 
 Michele Pittoni is a student of Computer Science at the University of Trento....
+
+Lesson 3
+--------
+
+**Classification**
+
+There are different correct wasy to classify a subject. For example, food:
+ * Italian/Chinese/American
+ * meat/fish/vegetarian
+ * healthy/unhealthy
+ * fresh/conserved
+
+Computer games
+ * Arcade/Strategy/RPG/Action/FPS/GA/Platform/Sport/Simulator
+ * 1p/local multiplayer/online multiplayer
+ * online/not online
+ * Violence/no violence
+ * 3+/12+/16+/18+
+ * First person/3rd person/platform/top down
+ * Software house
+ * Business model
+ * Release date
