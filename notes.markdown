@@ -45,7 +45,7 @@ Lesson 1
  * Adverbs in the middle of the verb (e.g. "was originally developed")
  * Avoid direct questions
 
-**Exercise**
+**Exercise 1**
 
  1. The results of this study can be used to recommend funding for further research.
  2. It is necessary to understand the cause(s) of the computerized
@@ -70,7 +70,35 @@ Dear students,
 It is possible that the lesson next Monday will be cancelled.
 Please refer to the screens for more information.
 The test is scheduled for next Wed. at 1 P.M.
-It is requested to be in time.
+It is required to be in time.
 
 best regards,
 Andrew Hunt
+
+**Ex. 2 correction**
+ * refer to -> 
+ * required -> 
+
+Lesson 2
+--------
+**Exercise 1 (The hit list)**
+ 1. Please be advised that the lesson on Monday //(will probably|may) be//
+    cancelled. ...
+ 2. The English lesson scheduled for Monday //might// be //cancelled//.
+ 3. For further //information// check the noticeboard.
+ 4. Remember that //the// test will be held //on// Wednesday at 1pm.
+ 5. For further information [...]. //A// test will take place [...]
+
+**Exercise 2 (Articles)**
+ 1. He graduated in 2011, specializing in software development.
+ 2. He is now studying at //the// University of Trento.
+ 3. ...where he worked at //the// XY consulting firm.
+ 4. He is //a// Master's student in Computer Science.
+ 5. He received intensive training in //the// corporate software framework.
+ 6. ...which gives //the// user //a// unique interface for...
+ 7. He is //a// supporter of Arsenal football club.
+
+**Biodata statement**
+Like a very short CV in third person form.
+
+Michele Pittoni is a student of Computer Science at the University of Trento....
