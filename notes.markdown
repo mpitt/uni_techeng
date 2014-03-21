@@ -102,7 +102,11 @@ Lesson 2
 
 Like a very short CV in third person form.
 
-Michele Pittoni is a student of Computer Science at the University of Trento....
+Michele Pittoni is a student of Computer Science at the University of Trento.
+He started using computers to play videogames with MS-DOS and eventually
+developed a passion for them. He is currently enrolled in the final year of his
+Bachelor//'s Degree course// and //he's// writing a thesis on computer networks.
+He plans to continue his studies at the EIT ICT Labs Master School.
 
 Lesson 3
 --------
@@ -125,3 +129,11 @@ Computer games
  * Software house
  * Business model
  * Release date
+
+Lesson 4
+--------
+
+//Speaking activity//
+
+**Classification: data storage**
+50 minutes, 200-300 words
